@@ -1,0 +1,5 @@
+pandas # Data manipulation
+matplotlib # Data visualization
+scikit-learn # Machine learning
+numpy # Scientific computing
+ipykernel # Jupyter notebook
